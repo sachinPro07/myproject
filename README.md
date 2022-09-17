@@ -10,3 +10,5 @@ One more new line added on GitHub.
 I added this line on local.
 
 I added this line on GitHub.
+
+Line added here to show working of Git pull command.
