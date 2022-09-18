@@ -1,7 +1,7 @@
 # Git and GitHub
 This is a sample project.
 
-## Project links
+## Project Links
 Visit:
 
 https://www.example.com
