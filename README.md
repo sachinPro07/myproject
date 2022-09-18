@@ -15,3 +15,5 @@ https://www.example.com
 
 [example.com](https://www.example.com "Visit example.com")
 
+<https://www.example.com>
+<username@example.com>
