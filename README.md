@@ -20,3 +20,5 @@ _This text is italic_
 ![Google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
 
 >This is a quote.
+
+`<?php echo "Hello world!; ?>`
