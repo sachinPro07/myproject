@@ -27,3 +27,33 @@ _This text is italic_
 ~~This text is struck through~~
 
 ![Nature](https://upload.wikimedia.org/wikipedia/commons/2/23/Lake_mapourika_NZ.jpeg)
+
+>This is a quote.
+
+`<?php echo "Hello world!; ?>`
+
+```php
+<?php
+echo "Hello world!";
+?>
+```
+
+* List item 1
+* List item 2
+* List item 3
+
++ List item 1
++ List item 2
+	- List subitem 1
+	- List subitem 2
++ List item 3
+
+---
+***
+___
+
+1. List item 1
+2. List item 2
+3. List item 3
+
+# 
