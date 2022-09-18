@@ -22,3 +22,9 @@ _This text is italic_
 >This is a quote.
 
 `<?php echo "Hello world!; ?>`
+
+```php
+<?php
+echo "Hello world`";
+?>
+```
