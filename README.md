@@ -15,7 +15,7 @@ https://www.example.com
 
 _This text is italic_
 
-***This text is bold***
+***This text is bold and italic***
 
 ~~This text is struck through~~
 
