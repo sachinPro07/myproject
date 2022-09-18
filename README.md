@@ -17,3 +17,12 @@ https://www.example.com
 
 <https://www.example.com>
 <username@example.com>
+
+**This text is bold**
+
+_This text is italic_
+
+***This text is bold and italic***
+
+~~This text is struck through~~
+
