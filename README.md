@@ -3,6 +3,7 @@ This is a sample project.
 
 ## Project links
 Visit:
+
 https://www.example.com
 
 [example.com](https://www.example.com)
