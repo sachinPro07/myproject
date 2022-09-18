@@ -26,4 +26,4 @@ _This text is italic_
 
 ~~This text is struck through~~
 
-![Nature](https://en.wikipedia.org/wiki/Nature#/media/File:Lake_mapourika_NZ.jpeg)
+![Nature](https://upload.wikimedia.org/wikipedia/commons/2/23/Lake_mapourika_NZ.jpeg)
