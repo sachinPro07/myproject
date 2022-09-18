@@ -12,5 +12,6 @@ https://www.example.com
 
 ### Some other info
 **This text is bold**
+
 _This text is italic_
 
