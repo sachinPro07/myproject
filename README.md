@@ -18,3 +18,5 @@ _This text is italic_
 ~~This text is struck through~~
 
 ![Google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
+
+>This is a quote.
