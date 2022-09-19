@@ -57,9 +57,3 @@ ___
 3. List item 3
 
 # 
-
-This is a new line in readme.
-
-1
-2
-3
